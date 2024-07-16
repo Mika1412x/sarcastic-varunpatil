@@ -1,0 +1,8 @@
+{
+  "name": "sarcastic-varunpatil",
+  "version": "1.0.0",
+  "description": "convert text to sarcastic case",
+  "main": "transformText.js",
+  "author": "varunpatil",
+  "license": "MIT"
+}
